@@ -6,7 +6,7 @@ This _Beryl Emerald Theme_ brings _Glare-Dark-Cupertino_ (xfwm4 theme for XFCE L
 ### Requirements (for Fedora Linux):
 
 ```
-# yum install compiz compiz-fusion compiz-fusion-gtk fusion-icon-gtk ccsm emerald emerald-themes
+# yum install compiz fusion-icon fusion-icon-gtk ccsm emerald emerald-themes emerald-themes-extra compiz-plugins-main compiz-plugins-extra compiz-plugins-unsupported
 ```
 
 After that, you can extract the zip in `~/.emerald/themes`, and apply the theme using `emerald-theme-manager`:
