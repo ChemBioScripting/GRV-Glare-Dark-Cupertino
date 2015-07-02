@@ -1,7 +1,7 @@
 # GRV-Glare-Dark-Cupertino
 Emerald Theme for Linux Compiz Window Manager
 
-This _Beryl Emerald Theme_ should be quite the same as _Glare-Dark-Cupertino_, for xfwm4 (XFCE windows decoration manager).
+This _Beryl Emerald Theme_ brings _Glare-Dark-Cupertino_ (xfwm4 theme for XFCE Linux Desktop) to Compiz.
 
 ### Requirements (for Fedora Linux):
 
