@@ -5,17 +5,18 @@ This _Beryl Emerald Theme_ brings _Glare-Dark-Cupertino_ (xfwm4 theme for XFCE L
 
 ### Requirements (for Fedora Linux):
 
+Open a terminal and, as _root_ (or _superuser_), give the command:
 ```
 # yum install compiz fusion-icon fusion-icon-gtk ccsm emerald emerald-themes emerald-themes-extra compiz-plugins-main compiz-plugins-extra compiz-plugins-unsupported
 ```
 
-After that, you can extract the zip in `~/.emerald/themes`, and apply the theme using `emerald-theme-manager`:
+Now, as a not _superuser_, launch the _emerald-theme-manager_ using its command:
 
 ```
 $ emerald-theme-manager &
 ```
 
-You need to search the _GRV-Glare-Dark-Cupertino_ theme in the _emerald-theme-manager_ search area.
+this, at first startup, will generate the `~/.emerald/theme` folder, containing the default theme. So, you need to import the _GRV-Glare-Dark-Cupertino.emerald_ file in `emerald-theme-manager` clicking on the relative button which  will generate the `~/.emerald/themes` folder, where you will find the _GRV-Glare-Dark-Cupertino_ theme installed: this is the simplest way. Alternatively, after the download of the .zip file of this repository, you can insert its .png and .ini files in a folder called _GRV-Glare-Dark-Cupertino_, created manually in `~/.emerald/themes` and, opening the `emerald-theme-manager`, you will find it as an installed theme, searching its name in the search box area.
 
 ### Desktop environment for the included screenshot:
 
