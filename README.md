@@ -16,7 +16,7 @@ Now, as a not _superuser_, launch the _emerald-theme-manager_ using its command:
 $ emerald-theme-manager &
 ```
 
-This command, at first startup, will generate the `~/.emerald/theme` folder, containing the default theme. So, you need to import the _GRV-Glare-Dark-Cupertino.emerald_ file in `emerald-theme-manager` by clicking on the relative button which will generate the `~/.emerald/themes` folder, where you will find the _GRV-Glare-Dark-Cupertino_ theme installed: this is the simplest way. Alternatively, after the download of the .zip file of this repository, you can insert its .png and .ini files in a folder called _GRV-Glare-Dark-Cupertino_, created manually in `~/.emerald/themes` and, opening the `emerald-theme-manager`, you will find it as an installed theme, searching its name in the search box area.
+This command, at its first startup, will generate the `~/.emerald/theme` folder, containing the default theme. So, you need to import the _GRV-Glare-Dark-Cupertino.emerald_ file in `emerald-theme-manager` by clicking on the relative button which will generate the `~/.emerald/themes` folder, where you will find the _GRV-Glare-Dark-Cupertino_ theme installed: this is the simplest way. Alternatively, after the download of the .zip file of this repository, you can insert its .png and .ini files in a folder called _GRV-Glare-Dark-Cupertino_, created manually in `~/.emerald/themes` and, opening the `emerald-theme-manager`, you will find it as an installed theme, searching its name in the search box area.
 
 ### Desktop environment for the included screenshot:
 
