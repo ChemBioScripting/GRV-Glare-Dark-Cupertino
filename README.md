@@ -36,4 +36,4 @@ Alternatively, after the download of the .zip file of this repository, you can i
 
 ### Video Preview:
 
-On [_YouTube_](https://youtu.be/WRA3I-CEuSM) ...Sorry for the low quality, but I understood that my laptop's video card is not so good for a screencasting + Compiz effects ;-)
+On [_YouTube_](https://youtu.be/WRA3I-CEuSM) ...Sorry for the low quality; I realize that my laptop's video card is not so good to support a screencasting with Compiz effects ;-)
