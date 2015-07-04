@@ -33,3 +33,7 @@ Alternatively, after the download of the .zip file of this repository, you can i
 ### Screenshot:
 
 ![GRV-Glare-cupertino Beryl Emerald Theme](/theme.screenshot.png)
+
+### Video Preview:
+
+On [_YouTube_](https://youtu.be/WRA3I-CEuSM) ...Sorry for the low quality, but I understood that my laptop's video card is not so good for a screencasting + Compiz effects ;-)
