@@ -7,7 +7,7 @@ This _Beryl Emerald Theme_ brings _Glare-Dark-Cupertino_ (xfwm4 theme for XFCE L
 
 Open a terminal and, as _root_ (or _superuser_), give the command:
 ```
-# yum install compiz fusion-icon fusion-icon-gtk ccsm emerald emerald-themes emerald-themes-extra compiz-plugins-main compiz-plugins-extra compiz-plugins-unsupported
+# dnf install compiz fusion-icon fusion-icon-gtk ccsm emerald emerald-themes emerald-themes-extra compiz-plugins-main compiz-plugins-extra compiz-plugins-unsupported
 ```
 
 Now, as a not _superuser_, launch the _emerald-theme-manager_ using its command:
